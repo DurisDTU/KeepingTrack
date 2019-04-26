@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepingTrack", "KeepingTrack\KeepingTrack.csproj", "{CA77C7E0-0D4C-4FC0-B7C5-8E8B9C95861B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA77C7E0-0D4C-4FC0-B7C5-8E8B9C95861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA77C7E0-0D4C-4FC0-B7C5-8E8B9C95861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA77C7E0-0D4C-4FC0-B7C5-8E8B9C95861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA77C7E0-0D4C-4FC0-B7C5-8E8B9C95861B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3969A6D7-A207-4E59-AD40-225CE98C6C1D}
+	EndGlobalSection
+EndGlobal
