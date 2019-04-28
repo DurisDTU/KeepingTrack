@@ -123,10 +123,14 @@
     <Compile Include="Controllers\CreateNewMemberController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\VerifiedUserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\KeepTrackList.cs" />
     <Compile Include="Models\Member.cs" />
+    <Compile Include="Models\MovieEntry.cs" />
+    <Compile Include="Models\SerieEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -165,6 +169,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\CreateNewMember\CreateMember.cshtml" />
     <Content Include="Views\Login\Login.cshtml" />
+    <Content Include="Views\Login\Unrecognized.cshtml" />
+    <Content Include="Views\VerifiedUser\MainPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
